@@ -1,0 +1,23 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "homepage": "https://github.com/SherazDeveloper12/Learning-Node-Js#readme",
+  "bugs": {
+    "url": "https://github.com/SherazDeveloper12/Learning-Node-Js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherazDeveloper12/Learning-Node-Js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
