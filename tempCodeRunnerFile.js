@@ -1,1 +1,1 @@
-/login
+const jwt = require('jsonwebtoken');
